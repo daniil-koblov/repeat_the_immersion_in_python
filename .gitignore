@@ -122,7 +122,8 @@ celerybeat.pid
 
 # Environments
 .env
-lectures/lecture_1/venv/Scripts/
+.Scripts
+Scripts/
 
 env/
 ENV/
