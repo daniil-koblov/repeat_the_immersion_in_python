@@ -122,9 +122,9 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+
 env/
-venv/
+
 ENV/
 env.bak/
 venv.bak/
@@ -181,4 +181,5 @@ media
 # <django-project-name>/staticfiles/
 
 .idea
+idea/
 
